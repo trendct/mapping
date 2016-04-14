@@ -5,4 +5,5 @@ Most of these will probably be shapefiles from UConn are awesome but converted t
 
 ## files
 
-housect_2010.topojson - Not current
+* housect_2014.topojson - Not on UConn MAGIC yet. Retrieved shapefile from Census Bureau and converted.
+* housect_2010.topojson - Not current
